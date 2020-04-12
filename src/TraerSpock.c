@@ -27,7 +27,7 @@
  * en el que podemos enviar estructuras complejas.
  */
 
-
+/*
 int main(int argc, char* argv[]) {
 	if (argc != 2) {
 		printf("Argumentos invalidos\n");
@@ -41,4 +41,4 @@ int main(int argc, char* argv[]) {
 	spock_destroy(spock);
 
 	return EXIT_SUCCESS;
-}
+}*/
